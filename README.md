@@ -16,3 +16,4 @@ Once the model is trained, you can use it to predict the authenticity of photos.
 
 Streamlit Web App
 To run the Streamlit web app, execute the following command:
+streamlit app run.py
